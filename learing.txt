@@ -1,7 +1,0 @@
- Learnings
-
-Today I learned:
-- What Salesforce is
-- What CRM means
-- Difference between object and record
-- Salesforce is used by companies to manage business
